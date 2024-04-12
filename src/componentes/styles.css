@@ -1,0 +1,34 @@
+/* App.css */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  button {
+    background-color: #c6e6f5; 
+    border: none;
+    color: rgb(16, 14, 14);
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+  
+  button:hover {
+    background-color: #a8c6d1;
+  }
+  
+ 
